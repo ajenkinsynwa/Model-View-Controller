@@ -21,4 +21,6 @@ npm install connect-session-sequelize
 
 ## Links 
 
+[Heroku](https://git.heroku.com/blooming-castle-16203.git)
 
+[Repository](https://github.com/ajenkinsynwa/Model-View-Controller)
